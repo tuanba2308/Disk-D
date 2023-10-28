@@ -132,4 +132,4 @@
 - External IP: epehemaral by default
 - The external IP address is mapped to the VM's internal address transparently by VPC.
 
-> internal fullyqualified domain name or FQDN 
+> internal fullyqualified domain name or FQDN I add something to test.
